@@ -1,3 +1,19 @@
+@font-face {
+  font-family: 'Aref Ruqaa';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('fonts/aref-ruqaa-v25-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Aref Ruqaa';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('fonts/aref-ruqaa-v25-bold.woff2') format('woff2');
+}
+
 html {
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
